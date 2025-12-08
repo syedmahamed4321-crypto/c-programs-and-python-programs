@@ -9,13 +9,13 @@
 int main()
 {
     // Principal amount
-    double principal = 2300;
+    double principal = 4000;
 
     // Annual rate of interest
-    double rate = 7;
+    double rate = 5;
 
     // Time
-    double time = 4;
+    double time = 2;
 
     // Calculating compound Interest
     double amount
